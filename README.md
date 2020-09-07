@@ -1,5 +1,7 @@
 # Breast-cancer-diagnostics-prediction
 
+# Description
+
 Cancer.R file: 
 Prediction of breast cancers diagnostics in Wisconsin.
 I compare the prediction performance of three methods: Random Forests, SVM and Logistic Regression.
